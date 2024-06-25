@@ -1,4 +1,4 @@
-# **RollTrip**
+# 🛫 **RollTrip**
 <img width="250" alt="RollTrip" src="https://github.com/chaeyeoniklmw/RollTrip/assets/125945945/c22fca18-c6ab-4922-a5c9-80e062d2d72f">
 
 
