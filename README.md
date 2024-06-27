@@ -26,13 +26,14 @@
   - <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="60"/> [Figma](https://www.figma.com/): 인터페이스 디자인 및 프로토타이핑 도구
 
 - **인공지능**
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/OpenAI_Logo.svg" alt="OpenAI" width="60"/> [OpenAI](https://www.openai.com/): 인공지능 연구소 및 API 제공
+  - <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" width="60"/> [OpenAI](https://www.openai.com/): 인공지능 연구소 및 API 제공
   - <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="60"/> [ChatGPT](https://www.openai.com/chatgpt): GPT-3.5를 기반으로 하는 챗봇
 
 - **웹 애플리케이션 프레임워크**
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="60"/> [Streamlit](https://streamlit.io/): 데이터 앱을 빠르게 구축할 수 있는 오픈 소스 프레임워크
+  - <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="60"/> [Streamlit](https://streamlit.io/): 데이터 앱을 빠르게 구축할 수 있는 오픈 소스 프레임워크
 
 - **통합 개발 환경 (IDE)**
   - <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="60"/> [Visual Studio Code](https://code.visualstudio.com/): Microsoft에서 개발한 소스 코드 편집기
+
 
 
