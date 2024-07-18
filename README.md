@@ -6,6 +6,7 @@
 - chatgpt api를 활용
 - Develop Point로 RAG이용하여 답변 강화 예정
 
+
 ![character](https://github.com/user-attachments/assets/b2fbf4bf-e121-42ac-908f-02acbdc8fc8e)
 
 ----
