@@ -1,5 +1,5 @@
 # 🛫 **RollTrip**
----
+
 ### 서비스 요약 설명
 - 챗봇테마의 여행지 추천 서비스
 - streamlit을 이용 웹 애플리케이션 
@@ -65,3 +65,6 @@
 
 - **통합 개발 환경 (IDE)**
   - <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="20"/> [Visual Studio Code](https://code.visualstudio.com/): Microsoft에서 개발한 소스 코드 편집기
+ 
+## 프로젝트 기간
+2024.06.19~06.28
