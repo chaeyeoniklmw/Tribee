@@ -6,7 +6,7 @@
 - chatgpt api를 활용
 - Develop Point로 RAG이용하여 답변 강화 예정
 
-![character](https://example.com/path/to/character.webp)
+![Character Image](./images/character.png)
 
 ----
 
