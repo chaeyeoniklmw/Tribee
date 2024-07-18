@@ -1,9 +1,9 @@
 # 🛫 **RollTrip**
 ---
--챗봇테마의 여행지 추천 서비스
--streamlit을 이용 웹 애플리케이션 
--chatgpt api를 활용
--Develop Point로 RAG이용하여 답변 강화 예정
+- 챗봇테마의 여행지 추천 서비스
+- streamlit을 이용 웹 애플리케이션 
+- chatgpt api를 활용
+- Develop Point로 RAG이용하여 답변 강화 예정
 
 <p align="center">
   <img width="500" alt="RollTrip" src="https://github.com/user-attachments/assets/ca7d95d6-695a-46a1-9d97-d73f1914aa85">
