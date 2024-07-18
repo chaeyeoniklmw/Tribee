@@ -1,5 +1,6 @@
 # 🛫 **RollTrip**
 <img width="250" alt="RollTrip" src="https://github.com/chaeyeoniklmw/RollTrip/assets/125945945/c22fca18-c6ab-4922-a5c9-80e062d2d72f">
+
 <img width="500" alt="RollTrip" src="https://github.com/user-attachments/assets/ca7d95d6-695a-46a1-9d97-d73f1914aa85">
 
 
