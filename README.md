@@ -67,4 +67,4 @@
   - <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="20"/> [Visual Studio Code](https://code.visualstudio.com/): Microsoft에서 개발한 소스 코드 편집기
  
 ## 프로젝트 기간
-2024.06.19~ 2024.06.28(1주간)
+수도권 ICT이노베이션 스퀘어 프로젝트: 2024.06.19~ 2024.06.28(1주간)
